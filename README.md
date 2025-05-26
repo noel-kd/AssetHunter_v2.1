@@ -5,6 +5,8 @@ Remotely obtain last-user data from online/available systems via remote host eve
 
 Author: Kyle Noel
 
+TEST THOROUGHLY BEFORE USE
+
 PREREQUISITES:
 - Application must be run as an admin.
 - RSAT must be installed and sid user attribute must be configured for domain users (should be by default).
@@ -18,9 +20,13 @@ Passive -
  Example:
 
 ASUS-XXXXXX
+
 DELL-AXXXXX
+
 ASUS-AAAAAA
+
 DESKT-ABABAB
+
 
  Select Launch_Passive.cmd to launch into Passive Mode.
 
