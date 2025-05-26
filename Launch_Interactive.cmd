@@ -1,0 +1,1 @@
+Powershell -ExecutionPolicy Bypass -File ".\AssetHunter.ps1" "-interactive"
